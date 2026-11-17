@@ -2,7 +2,7 @@
 <h1>Hostinger Referral Code WANT20: Get More Value from Your Hosting Purchase</h1>
 
 <p>
-    <img src="./Hostinger%20Coupon%20Code.webp" alt="Hostinger Coupon Code" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/gxdseo1/hostinger-referral-code-20-off/blob/main/Hostinger%20Referral%20Code%20WANT20.webp" alt="Hostinger Referral Code" style="max-width: 100%; height: auto;">
 </p>
 
 <p>Buying web hosting is one of the first expenses when starting a website. Whether you are building a blog, launching a business website, or creating an online store, finding the right hosting deal can help you manage your budget. The Hostinger Referral Code WANT20 is featured here for users looking for a potential discount of up to 20% on eligible purchases.</p>
