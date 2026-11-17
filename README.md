@@ -1,4 +1,14 @@
 
+<head>
+    <title>Explore Hostinger referral code WANT20 to get 20% off </title>
+
+    <meta name="description" content="The Hostinger Referral Code WANT20 gives you 20% OFF on your Hostinger hosting purchase. Enter the code WANT20 at checkout to claim your discount and save on your hosting plan.">
+
+    <meta name="keywords" content="Hostinger Referral Code, Hostinger Promo Code, Hostinger Discount Code, Hostinger Coupon Code WANT20">
+
+    <meta name="robots" content="index, follow">
+</head>
+
 <h1>Hostinger Referral Code WANT20: Get More Value from Your Hosting Purchase</h1>
 
 <p>
