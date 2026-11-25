@@ -91,6 +91,24 @@
 <p>We tested the Hostinger referral code WANT20 on November 25, 2026, and successfully applied the 20% coupon discount at checkout. Your final price may vary depending on the selected plan and applicable offer conditions.</p>
 
 
+<h3>Hostinger WANT20 Coupon Code: 20% OFF Successfully Applied</h3>
+
+<p>We tested Hostinger referral code WANT20 on November 25, 2026. The checkout screenshot below confirms that the 20% coupon discount was successfully applied, saving ₹1,910.40 on the selected hosting purchase.</p>
+
+<figure>
+    <img
+        src="https://raw.githubusercontent.com/gxdseo1/hostinger-referral-code-20-off/main/hostinger%20want20%20coupon%20applied%20checkout%20proof%20november%202026.webp.webp"
+        alt="Hostinger referral code WANT20 showing 20% off and ₹1,910.40 coupon savings at checkout"
+        title="Hostinger WANT20 20% Discount Applied at Checkout"
+        loading="lazy"
+        decoding="async"
+    >
+    <figcaption>
+        Hostinger referral code WANT20 successfully applied for 20% OFF, with ₹1,910.40 in coupon savings on November 25, 2026.
+    </figcaption>
+</figure>
+
+
 <p>The discount should only be considered valid when the applicable offer conditions are satisfied and the checkout reflects the eligible savings.</p>
 
 <h2>Explore Hosting Solutions Before You Buy</h2>
